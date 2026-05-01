@@ -23,24 +23,4 @@ I am a full stack developer, I know 14+ languages, including:
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
 
-## 📊 GitHub Statistics
-
-### Most Used Languages
-| Personal (@ItzDanti-Dev) | Organization (@ItzDanti) |
-|--------------------------|--------------------------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzDanti-Dev&layout=compact&title_color=000000&text_color=000000&bg_color=ffffff) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzDanti&layout=compact&title_color=000000&text_color=000000&bg_color=ffffff) |
-
-### Activity Graph
-| Personal (@ItzDanti-Dev) | Organization (@ItzDanti) |
-|--------------------------|--------------------------|
-| ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=ItzDanti-Dev&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=000000) | ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=ItzDanti&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=000000) |
-
-### Trophies
-| Personal (@ItzDanti-Dev) | Organization (@ItzDanti) |
-|--------------------------|--------------------------|
-| [![trophy](https://github-profile-trophy.vercel.app/?username=ItzDanti-Dev&theme=flat&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) | [![trophy](https://github-profile-trophy.vercel.app/?username=ItzDanti&theme=flat&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) |
-
-### Visitor Count
-| Personal (@ItzDanti-Dev) | Organization (@ItzDanti) |
-|--------------------------|--------------------------|
-| ![Visitors](https://komarev.com/ghpvc/?username=ItzDanti-Dev&color=000000&style=flat) | ![Visitors](https://komarev.com/ghpvc/?username=ItzDanti&color=000000&style=flat) |
+bep blop beep bap
