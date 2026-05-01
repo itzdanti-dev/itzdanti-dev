@@ -19,6 +19,6 @@ I am a full stack developer, I know 14+ languages, including:
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
-![.NET](https://img.shields.io/b/-.NET-000000?style=flat&logo=dotnet)
+![.NET](https://img.shields.io/badge/-.NET%208.0+-000000?logo=dotnet)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
